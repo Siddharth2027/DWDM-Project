@@ -2,8 +2,6 @@
 
 A user-friendly web application that uses a machine learning model to predict the acceptability of a car based on its features. This project demonstrates a full-stack application with a React frontend and a Flask (Python) backend.
 
-![image](https://github.com/user-attachments/assets/e35c2a17-f31b-433c-879b-533595643a5f)
-
 ## Features
 
 - **Train a Model:** Upload a CSV dataset to train a Decision Tree classifier in real-time.
@@ -69,6 +67,7 @@ python app.py
 
 # The backend will now be running at http://localhost:5000
 ```
+
 **Note:** Leave this terminal running.
 
 ### 2. Frontend Setup
@@ -90,14 +89,15 @@ The application will automatically open in your browser. If it doesn't, navigate
 
 ## How to Use the Application
 
-1.  **Train the Model:**
-    - The application will load on Step 1.
-    - Click the **Choose File** button and select the `car_evaluation.csv` file located in the `backend` folder.
-    - Click the **Train Model** button.
-    - Wait for the training to complete. The model's accuracy will be displayed.
+1. **Train the Model:**
 
-2.  **Make a Prediction:**
-    - Once the model is trained, the prediction form in Step 2 will be enabled.
-    - Select the desired features for the car from the dropdown menus.
-    - Click the **Predict Car Acceptability** button.
-    - The prediction result will appear instantly below the form.
+   - The application will load on Step 1.
+   - Click the **Choose File** button and select the `car_evaluation.csv` file located in the `backend` folder.
+   - Click the **Train Model** button.
+   - Wait for the training to complete. The model's accuracy will be displayed.
+2. **Make a Prediction:**
+
+   - Once the model is trained, the prediction form in Step 2 will be enabled.
+   - Select the desired features for the car from the dropdown menus.
+   - Click the **Predict Car Acceptability** button.
+   - The prediction result will appear instantly below the form.
