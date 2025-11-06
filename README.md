@@ -101,3 +101,8 @@ The application will automatically open in your browser. If it doesn't, navigate
    - Select the desired features for the car from the dropdown menus.
    - Click the **Predict Car Acceptability** button.
    - The prediction result will appear instantly below the form.
+
+## Contributors
+- [@Siddharth2027](https://github.com/Siddharth2027)
+- [@Yuvaraj36-griet](https://github.com/Yuvaraj36-griet)
+
