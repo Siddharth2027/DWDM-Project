@@ -103,6 +103,8 @@ The application will automatically open in your browser. If it doesn't, navigate
    - The prediction result will appear instantly below the form.
 
 ## Contributors
-- [@Siddharth2027](https://github.com/Siddharth2027)
-- [@Yuvaraj36-griet](https://github.com/Yuvaraj36-griet)
+- [Siddharth](https://github.com/Siddharth2027)
+- [Yuvaraj](https://github.com/Yuvaraj36-griet)
+- [Narasimha](https://github.com/narasimhamurthy2005/)
+- [Nithin](https://github.com/Nithin7King)
 
